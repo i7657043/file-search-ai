@@ -2,6 +2,12 @@
 
 Reads in 2 PDFs and allows you to search them, and filter by cusomter-id
 
+### Dependencies
+
+`pip install langchain-pinecone langchain-openai langchain langchain-core python-dotenv`
+
+- I hope these cover everything
+
 ## 1. Get API Keys
 
 - Obtain an **OpenAI API key** ($5)
