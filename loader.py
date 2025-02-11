@@ -39,8 +39,8 @@ load_dotenv()
 print("\nLoading docs...")
 
 file_paths = [
-    "C:\\fv\\docs\\Moray Council.pdf",
-    "C:\\fv\\docs\\Bio.pdf"
+    "Moray Council.pdf",
+    "Bio.pdf"
 ]
 
 # pull documents from blob storage, by page, into memory

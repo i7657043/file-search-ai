@@ -29,7 +29,7 @@ vector_store = PineconeVectorStore.from_existing_index(
 
 # this just comes from the context of whichever customer is logged in.
 # Can grab from request arg, cookie, jwt, session, anything
-customer_id = "001"
+customer_id = "002"
 
 query = "Who is XXX Construction apprentice scheme part funded by?"
 # query = "The slowly adapting Merkel’s receptors are responsible for what exactly?"
