@@ -1,5 +1,7 @@
 # file-search-ai
 
+Reads in 2 PDFs and allows you to search them, and filter by cusomter-id
+
 ## 1. Get API Keys
 
 - Obtain an **OpenAI API key** ($5)
